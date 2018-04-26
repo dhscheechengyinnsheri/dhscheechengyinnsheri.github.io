@@ -1,5 +1,10 @@
 h1 {
 
-font family="Trebuchet MS", Helvetica, sans-serif
-colour=#00001a
+font family:"Trebuchet MS", Helvetica, sans-serif;
+colour:#00004d;
+}
+
+body {
+  
+  background-color:#ccd9ff;
 }
